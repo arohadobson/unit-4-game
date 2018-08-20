@@ -1,0 +1,47 @@
+body {
+	background-image: url("../images/62ff60aa1768eda2efda667376ee0949.jpg");
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Poiret One', cursive;
+	color: rgb(54, 54, 54);
+	font-size: 18px;
+}
+
+.jumbotron {
+	background-color: black;
+	color: white;
+	font-family: 'Fredericka the Great', cursive;
+}
+
+.target-number {
+	font-size: 30px;
+	background-color: #DAA520;
+	border-style: solid;
+	border-color: #C0C0C0;
+	border-width: 4px;
+	color: #ddd;
+}
+
+.win-lose-counter {
+	background-color: #de0f0d;
+	border-style: solid;
+	border-color: #ddd;
+	border-width: 4px;
+	color: white
+}
+
+.crystal-images {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.total-score {
+	color: white	;
+	background-color: #313335 ;
+}
+
+.score-number {
+	color: white;
+	background-color: #313335;
+	font-size: 30px;
+}
