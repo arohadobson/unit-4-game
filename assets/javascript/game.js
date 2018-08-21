@@ -3,7 +3,7 @@ var targetNumber = "";
 var wins = 0;
 var losses = 0;
 var counter = 0;
-var images = ["", "../images/crystal_purple.png", "../images/crystal_red.png", "../images/crystal_yellow.png"];
+var images = ["assets/images/crystal_blue.png", "assets/images/crystal_purple.png", "assets/images/crystal_red.png", "assets/images/crystal_yellow.png"];
 
 // Functions
 
