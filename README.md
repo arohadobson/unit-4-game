@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+#Crystal Collecting Is En Vogue
+he Greedy Bastards List is a versatile and consumer focused app in which users can create their own gift registries, and view and purchase items on other users registries.
 
-You can use the [editor on GitHub](https://github.com/arohadobson/unit-4-game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## How To Play
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    • You will be given a random number at the start of the game. There are four crystals to the right. By clicking on a crystal you will add a specific amount of points to your total score.
 
-### Markdown
+    • To win the game try matching your 'total score' to the random number generated; you lose the game if your total score goes above the random number.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    • The value of each crystal is hidden from you until you click on it.
 
-```markdown
-Syntax highlighted code block
+    • Each time the game restarts the values of each crystal will change.
 
-# Header 1
-## Header 2
-### Header 3
+## Code Languages
 
-- Bulleted
-- List
+    • HTML
+    • CSS (SASS)
+    • JavaScript
 
-1. Numbered
-2. List
+## Deployed Site
 
-**Bold** and _Italic_ and `Code` text
+[Crystal Collecting Is En Vogue](file:///Users/arohadobson/Dev/homework/unit-4-game/index.html)
 
-[Link](url) and ![Image](src)
-```
+## Gifs
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arohadobson/unit-4-game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](http://www.giphy.com/gifs/pOgQzowqQgTdYIr9m1)
