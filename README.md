@@ -1,6 +1,6 @@
 # Crystal Collecting Is En Vogue
 
-Crysltal Collecting is en Vouge is an interactive game that updates dymanically using JQuery.
+Crystal Collecting is en Vouge is an interactive game that updates dynamically using JQuery.
 
 ## How To Play
 
