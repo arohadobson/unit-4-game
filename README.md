@@ -1,6 +1,6 @@
 # Crystal Collecting Is En Vogue
 
-he Greedy Bastards List is a versatile and consumer focused app in which users can create their own gift registries, and view and purchase items on other users registries.
+Crysltal Collecting is en Vouge is an interactive game that updates dymanically using JQuery.
 
 ## How To Play
 
