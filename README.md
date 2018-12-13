@@ -24,4 +24,4 @@ Each time the game restarts the values of each crystal will change.
 
 ## Gifs
 
-![Crystal Collector Runthrough](http://www.giphy.com/gifs/pOgQzowqQgTdYIr9m1)
+![Crystal Collector Runthrough](https://giphy.com/gifs/pOgQzowqQgTdYIr9m1/html5)
