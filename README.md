@@ -19,7 +19,7 @@ he Greedy Bastards List is a versatile and consumer focused app in which users c
 
 ## Deployed Site
 
-[Crystal Collecting Is En Vogue](file:///Users/arohadobson/Dev/homework/unit-4-game/index.html)
+[Crystal Collecting Is En Vogue](https://arohadobson.github.io/unit-4-game/)
 
 ## Gifs
 
