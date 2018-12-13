@@ -15,7 +15,7 @@ Each time the game restarts the values of each crystal will change.
 ## Code Languages
 
     • HTML
-    • CSS (SASS)
+    • CSS
     • JavaScript
 
 ## Deployed Site
@@ -24,4 +24,4 @@ Each time the game restarts the values of each crystal will change.
 
 ## Gifs
 
-![](CrystalCollector.gif)
+![Crystal Collector Runthrough](http://www.giphy.com/gifs/pOgQzowqQgTdYIr9m1)
